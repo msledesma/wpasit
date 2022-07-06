@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
+body {font-family:'Quicksand';
+    color: rgb(0, 0, 0);
+    background-color: rgb(249, 227, 255);
+    text-align: justify;
+    margin: 5%;
+    font-weight:lighter;
+    font-size: 20px;}
+
+header {font-weight: 700; font-size: 35px;
+    color: rgba(133, 16, 243, 0.664); }
+
+ul {list-style-type: none;
+    font-size: 30px;
+    text-align:right;
+    border-top: 10px;}
+
+h2, h3 {color: rgb(130, 6, 247);
+    font-size: 30px;}
+
+a {text-decoration: none;}
+
+a:hover {color:rgb(130, 6, 247) ;}
+
+div h4 {color: rgb(130, 6, 247);
+font-size: 30px;
+box-sizing: border-box;}
+
+body section img {width: 50%;
+    border: 10px inset rgb(169, 39, 255); 
+    padding: 15px; margin-top: 0%;}
+
+body section img:hover {border: 10px inset rgb(90, 1, 150); 
+    padding: 15px; margin-top: 0%;}
+
+main div section img {float: right;
+    border: none;
+    width:30%;
+    margin: 0%;}
+
+main div section img:hover{border: none;}
+
+aside img {width: 5%;border: none; margin: 1%}
+.Consulta {border:5px;border-style: inset; border-color: rgb(169, 39, 255);
+padding:20px;}
+fieldset {border-color:rgb(130, 6, 247) }
+
+
